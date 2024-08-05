@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Administrator/Desktop/Devops imp questions/shaiksha2.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/shaiksha786/shaiksha7865.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=shaiksha786/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.sample.shaiksha786{App.java[App" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/shaiksha786/src"/>
+        <folder path="/shaiksha786/target"/>
+        <file path="/shaiksha786/.classpath"/>
+        <file path="/shaiksha786/.gitignore"/>
+        <file path="/shaiksha786/.project"/>
+        <file path="/shaiksha786/pom.xml"/>
+        <javaElement handleIdentifier="=shaiksha786/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=shaiksha786/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/"/>
+    </selectedElements>
+</jardesc>
